@@ -13,7 +13,7 @@ class App:
     self.slogan.pack(side=LEFT)
   def write_slogan(self):
     print "Tkinter is easy to use!"
-
+#Comment to diff
 root = Tk()
 app = App(root)
 root.mainloop()
